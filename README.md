@@ -8,6 +8,7 @@
 - CPU Utilization (%)
 - Memory Usage (%)
 - Disk I/O Operations
+- Disk Usage (%)
 - Network Throughput
 
 ### Automated Alert System

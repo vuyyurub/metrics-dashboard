@@ -4,7 +4,7 @@
 
 ## Key Features
 
-### Real-time Monitoring
+### Metrics Observed on EC2 Instance
 - CPU Utilization (%)
 - Memory Usage (%)
 - Disk I/O Operations

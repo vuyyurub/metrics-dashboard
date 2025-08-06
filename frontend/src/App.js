@@ -138,7 +138,7 @@ function App() {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>EC2 Monitoring Dashboard</h1>
+      <h1 style={styles.title}>EC2 Monitoring Dashboard for www.podifynews.com!</h1>
 
       
       <div style={styles.grid}>
